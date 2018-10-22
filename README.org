@@ -1,12 +1,10 @@
 * bash-16-color-cheat-sheet
 
 
-** A cheat sheet for using bash 16-color codes
-
-In the form of a simple bash `script colors_16-cheat-sheet.sh`
+** A cheat sheet for using bash 16-color codes in the form of a simple bash `script colors_16-cheat-sheet.sh`
 
 How is it that up until now there hasn't been a widely available
-useful and intelligible cheat sheet script for bash 16-color codes?!
+*useful* and *intelligible* cheat sheet script for bash 16-color codes?!
 
 URL: https://github.com/Boruch-Baum/bash-16-color-cheat-sheet
 
